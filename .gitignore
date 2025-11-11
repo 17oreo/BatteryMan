@@ -1,0 +1,46 @@
+# Unreal Engine Git Ignore
+
+# Compiled object files
+*.o
+*.obj
+*.pch
+*.exe
+*.dll
+*.lib
+*.app
+*.dylib
+*.so
+
+# Build folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Backup and autosave
+*_Backup
+*_Autosave
+
+# Unreal
+*.aps
+*.pdb
+*.idb
+*.log
+*.tlog
+*.dat
+*.tmp
+
+# Keep these
+!Config/
+!Content/
+!Source/
+!*.uproject
+!*.uplugin
