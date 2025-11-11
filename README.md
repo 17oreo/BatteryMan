@@ -1,6 +1,7 @@
 # 🔋 BatteryMan
 
-BatteryMan is a small third-person game built in **Unreal Engine 5**, originally inspired by a UE4 Battery Collector tutorial on YouTube.  
+This project is based on the BatteryMan UE4 tutorial by [Tutorial is up to 1:16:07](https://youtu.be/LsNW4FPHuZE?si=3TcS5nicN7b5idBJ)], recreated in Unreal Engine 5 for learning purposes.
+I used this project to explore C++ gameplay scripting, character control, and UE5’s enhanced input system.
 The project demonstrates core Unreal gameplay concepts — **movement, jumping, collectibles, UI, and basic game logic** — all recreated from scratch in **C++** and **Blueprints**.
 
 ---
